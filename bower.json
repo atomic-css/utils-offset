@@ -1,0 +1,19 @@
+{
+  "name": "atomic-css-utils-offset",
+  "version": "1.0.0",
+  "homepage": "https://github.com/atomic-css/utils-offset",
+  "authors": [
+    "Lukáš Mladý",
+    "Nicolas Gallagher"
+  ],
+  "description": "Utilities for offset-related CSS",
+  "main": [
+    "offset.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "component.json"
+  ]
+}
